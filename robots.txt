@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paradigmaclass.web.id/sitemap.xml
